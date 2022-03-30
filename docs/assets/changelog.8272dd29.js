@@ -1,0 +1,1 @@
+import{_ as e}from"./index.7d888a97.js";import{b as o,o as t,i as n}from"./vendor.2226ec98.js";const a={name:"ChangeLog"},s=n("h1",null,"changelog",-1),c=[s];function r(_,l,i,p,d,f){return t(),o("section",null,c)}var g=e(a,[["render",r]]);export{g as default};
